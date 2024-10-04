@@ -1,17 +1,17 @@
-- 👋 Hi, I’m @Ajaymanikandan0x
+# Ajay Manikandan / README.md
 
-  Welcome to my GitHub profile! I'm Ajay Manikandan, and I'm passionate about Flutter and web app development.
+## <span style="color:#2b4675">🔭 I'm a Flutter and Web App Developer</span>
 
--- 👀 About Me
+- 🌱 I'm currently working on exciting projects using Flutter and web technologies.
+- 💻 Passionate about coding and exploring new technologies.
+- ✉️ You can reach me at: [ajaymanikandan1901@gmail.com](mailto:ajaymanikandan1901@gmail.com).
 
-- 🌱 I’m currently learning Flutter and Dart to enhance my skills in mobile and web development.
-- 💞️ I’m eager to collaborate on Flutter projects and contribute to the open-source community.
-- 📫 How to reach me: You can email me at [ajaymanikandan1901@gmail.com](mailto:ajaymanikandan1901@gmail.com).
+---
 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 📊 GitHub Stats
 
-<!---
-Ajaymanikandan0x/Ajaymanikandan0x is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img src="https://github-readme-stats.vercel.app/api?username=Ajaymanikandan0x&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Ajaymanikandan0x&theme=tokyonight" alt="GitHub Streak Stats" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ajaymanikandan0x&theme=tokyonight" alt="Ajay's Contributions" width="80%" />
