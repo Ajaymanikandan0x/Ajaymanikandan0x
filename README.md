@@ -10,7 +10,7 @@
 ## 🛠️ Tech Stack
 
 - **Languages:** Dart, rust  
-- **Frameworks:** Flutter, HTML, CSS  
+- **Frameworks:** Flutter 
 - **State Management:** BLoC / Cubit  
 - **Architecture:** Clean Architecture, viper  
 - **APIs:** REST API integration  
